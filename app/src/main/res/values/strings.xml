@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Poodie</string>
+
+    // bottom_nav
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="noti">Notification</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="account">Account</string>
 </resources>

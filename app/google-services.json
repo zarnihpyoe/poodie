@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953647991608",
+    "firebase_url": "https://poodie-da3d9.firebaseio.com",
+    "project_id": "poodie-da3d9",
+    "storage_bucket": "poodie-da3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953647991608:android:9900a5f3ee5fb45e",
+        "android_client_info": {
+          "package_name": "net.poodie.poodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953647991608-tj273n58p7k8evgolrg0oco349ogabdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.poodie.poodie",
+            "certificate_hash": "5ED427722FDA35158ABCACD9E8166183D56A0636"
+          }
+        },
+        {
+          "client_id": "953647991608-nq68s6o5hg2qrtsch54vu58e85j7fk63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABAa9GwJ7KHi5djJAtdNfWh-Z8tKdW5TU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953647991608-nq68s6o5hg2qrtsch54vu58e85j7fk63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
